@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "36a17bfc7ec92b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "e962ad874fa31cac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fddb3c24b1f3f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HBM3_Spec/HBM Terminology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HBM Terminology"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "082940472506f0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "996d9d6bb79e1a64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0306e7f88f99867",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3a69ba6f863dde8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5fb2f0250e1af6ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32c33fadcc6c61c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a60a30e87633934c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eb44c9cc15173f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HBM3_Spec/HBM Terminology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "HBM Terminology 的反向链接列表"
+            }
+          },
+          {
+            "id": "9683c95fc86b139b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "职位信息/岗位链接.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "岗位链接 的出链列表"
+            }
+          },
+          {
+            "id": "9794c044a74a082c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5c6e1f5b8798b95c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HBM3_Spec/HBM Terminology.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "HBM Terminology 的大纲"
+            }
+          },
+          {
+            "id": "af6610b6af859e9a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d0306e7f88f99867",
+  "lastOpenFiles": [
+    "HBM3_Spec/HBM Terminology.md",
+    "Pasted image 20250705215301.png",
+    "欢迎.md",
+    "职位信息/岗位链接.md",
+    "HBM3_Spec/eetop.cn_JESD238 HBM3.pdf",
+    "HBM3_Spec/draw.md",
+    "basic/GPU&NPU.md",
+    "basic",
+    "HBM3_Spec/6d6a9397522a451885d97429f38f8b38/2f72fb2b703a44cf94bae465eade7d31.pdf",
+    "HBM3_Spec/6d6a9397522a451885d97429f38f8b38/237460eb0c1645439714451df4b7243c.pdf",
+    "HBM3_Spec/6d6a9397522a451885d97429f38f8b38",
+    "未命名",
+    "eetop.cn_JESD238 HBM3.pdf",
+    "HBM3_Spec",
+    "~syncthing~eetop.cn_JESD238 HBM3.pdf.tmp",
+    "职位信息"
+  ]
+}

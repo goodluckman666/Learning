@@ -1,19 +1,19 @@
 # Explain:
 
-|    NAME |  Explain   | Note|
-| --- | --- | --- |
-| BL     | Burst Length    |
-| PDE   |  Power-down Entry   |
-| PDX    |  Power-down exit   |
-|SRE|SELF REFRESH-ENTRY|
-|SRX|Self refresh exit|
-|DQ| Data|
-| PC    |   Pseudo Channel  |
-| CK_t/CK_c    |  a differential clock CK_t/CK_c. Both buses operate at double data rate (DDR).   |
-|DWORD|Data WORD|
-|DBI|Data Bus Inversion (DBIac)|
-|stobe|时序参考信号|
-|RFU|1 RFU per AWORD|why|
+| NAME      | Explain                                                                       | Note      |
+| --------- | ----------------------------------------------------------------------------- | --------- |
+| BL        | Burst Length                                                                  |           |
+| PDE       | Power-down Entry                                                              |           |
+| PDX       | Power-down exit                                                               |           |
+| SRE       | SELF REFRESH-ENTRY                                                            |           |
+| SRX       | Self refresh exit                                                             |           |
+| DQ        | Data                                                                          |           |
+| PC        | Pseudo Channel                                                                |           |
+| CK_t/CK_c | a differential clock CK_t/CK_c. Both buses operate at double data rate (DDR). |           |
+| DWORD     | Data WORD                                                                     |           |
+| DBI       | Data Bus Inversion (DBIac)                                                    |           |
+| stobe     | 时序参考信号                                                                        |           |
+| RFU       | 1 RFU per AWORD                                                               | extra pin |
 
 
 
