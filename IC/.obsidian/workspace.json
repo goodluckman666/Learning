@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HBM3_Spec/HBM Terminology.md",
+                "file": "HBM3_Spec/draw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HBM Terminology"
+              "title": "draw"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HBM3_Spec/HBM Terminology.md",
+                "file": "HBM3_Spec/draw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HBM Terminology 的大纲"
+              "title": "draw 的大纲"
             }
           },
           {
@@ -179,14 +179,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0306e7f88f99867",
+  "active": "4fddb3c24b1f3f7f",
   "lastOpenFiles": [
+    "Pasted image 20250713200306.png",
+    "HBM3_Spec/draw.md",
     "HBM3_Spec/HBM Terminology.md",
     "Pasted image 20250705215301.png",
     "欢迎.md",
     "职位信息/岗位链接.md",
     "HBM3_Spec/eetop.cn_JESD238 HBM3.pdf",
-    "HBM3_Spec/draw.md",
     "basic/GPU&NPU.md",
     "basic",
     "HBM3_Spec/6d6a9397522a451885d97429f38f8b38/2f72fb2b703a44cf94bae465eade7d31.pdf",
