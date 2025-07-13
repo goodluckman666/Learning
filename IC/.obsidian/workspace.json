@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HBM3_Spec/draw.md",
+                "file": "HBM3_Spec/HBM Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "draw"
+              "title": "HBM Terminology"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HBM3_Spec/draw.md",
+                "file": "HBM3_Spec/HBM Terminology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "draw 的大纲"
+              "title": "HBM Terminology 的大纲"
             }
           },
           {
@@ -181,8 +181,8 @@
   },
   "active": "4fddb3c24b1f3f7f",
   "lastOpenFiles": [
-    "Pasted image 20250713200306.png",
     "HBM3_Spec/draw.md",
+    "Pasted image 20250713200306.png",
     "HBM3_Spec/HBM Terminology.md",
     "Pasted image 20250705215301.png",
     "欢迎.md",
